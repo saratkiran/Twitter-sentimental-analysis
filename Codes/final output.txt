@@ -1,0 +1,57 @@
+India tweets:
+	iphone_bytext4sind.txt:
+		Positive tweets :324
+		Negative tweets :248
+		Neutral tweets :670
+		total tweets :1242
+
+	indhashtag4s:
+		Positive tweets :42
+		Negative tweets :34
+		Neutral tweets :94
+		total tweets :170
+
+	iphone_bytext5sind:
+		Positive tweets :401
+		Negative tweets :259
+		Neutral tweets :752
+		total tweets :1412
+
+	indhashtag5s:
+		Positive tweets :84
+		Negative tweets :34
+		Neutral tweets :131
+		total tweets :249
+
+
+US tweets:
+	iphone_bytext4s:
+		Positive tweets :289
+		Negative tweets :219
+		Neutral tweets :582
+		total tweets :1090
+	
+	ushashtag4s:
+		Positive tweets :42
+		Negative tweets :35
+		Neutral tweets :85
+		total tweets :162
+
+	iphone_bytext5s:	
+		Positive tweets :356
+		Negative tweets :354
+		Neutral tweets :809
+		total tweets :1519
+
+	ushashtag5s:
+		Positive tweets :44
+		Negative tweets :26
+		Neutral tweets :81
+		total tweets :151
+		
+
+
+
+
+
+
